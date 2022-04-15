@@ -21,6 +21,7 @@ const Home = () => {
 
   return (
     <div>
+      <h1>Welcome to REACT__CRUD_OPERATION </h1>
       <Table striped bordered hover variant="dark">
         <thead>
           <tr>
