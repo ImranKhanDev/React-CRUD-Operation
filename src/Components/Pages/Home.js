@@ -21,7 +21,6 @@ const Home = () => {
 
   return (
     <div>
-      <h1>Welcome to CRUD_OPERATION :{users?.length}</h1>
       <Table striped bordered hover variant="dark">
         <thead>
           <tr>
